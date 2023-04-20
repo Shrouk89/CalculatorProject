@@ -1,4 +1,4 @@
-package com.lab.task.model;
+package com.lab.task.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.GenerationType;
