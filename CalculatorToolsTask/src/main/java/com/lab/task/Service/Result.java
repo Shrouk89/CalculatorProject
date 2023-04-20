@@ -1,4 +1,4 @@
-package com.lab.task.service;
+package com.lab.task.Service;
 
 public class Result {
     private int r;
