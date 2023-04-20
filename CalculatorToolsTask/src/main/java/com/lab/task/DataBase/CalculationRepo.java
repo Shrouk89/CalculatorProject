@@ -1,4 +1,4 @@
-package com.lab.task.repo;
+package com.lab.task.DataBase;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import javax.persistence.PersistenceContext;
 import javax.persistence.EntityManager;
 
 
-import com.lab.task.model.Calculation;
+import com.lab.task.Model.Calculation;
 
 @Stateless
 public class CalculationRepo {
