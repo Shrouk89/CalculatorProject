@@ -1,4 +1,4 @@
-package com.lab.task.service;
+package com.lab.task.Service;
 
 
 import java.util.List;
@@ -11,8 +11,8 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 
-import com.lab.task.repo.CalculationRepo;
-import com.lab.task.model.Calculation;
+import com.lab.task.DataBase.CalculationRepo;
+import com.lab.task.Model.Calculation;
 
 
 @Consumes(MediaType.APPLICATION_JSON)
